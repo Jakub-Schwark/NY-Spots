@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+}
+
+.locations-map {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.loc-info {
+    background-color: #CCA665;
+    color: #FFF;
+    width: 548px;
+    height: 648px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 42px;
+}
+
+.loc-info h2 {
+    font-size: 36px;
+    margin: 0;
+    padding-top: 91px;
+    padding-left: 31px;
+}
+
+.adres, .adres-onclick {
+    height: 46px;
+    cursor: pointer;
+}
+
+.adres p, .adres-onclick p {
+    font-weight: 200;
+    margin: 0;
+    line-height: 23px;
+}
+
+.adres img, .adres-onclick img {
+    float: left;
+    padding-left: 31px;
+    margin-right: 19px;
+}
+
+.adres-onclick {
+    display: block;
+    position: relative;
+    background-color: #000;
+    width: 458px;
+    height: 84px;
+}
+
+.adres-onclick p {
+    position: relative;
+    top: 20px;
+    left: -45px;
+    float: left;
+}
+
+.adres-onclick img {
+    position: relative;
+    left: -70px;
+}
+
+.map {
+    position: relative;
+    top: 38px;
+    left: -130px;
+}
+
+.map iframe {
+    width: 731px;
+    height: 572px;
+    border: 0;
+    
+}
+
+#dunska-normal {display: block;}
+#dunska-click {display: none;}
+
+#oaza-normal {display: block;}
+#oaza-click {display: none;}
+
+#forest-normal {display: block;}
+#forest-click {display: none;}
+
+#aloha-normal {display: block;}
+#aloha-click {display: none;}
+
+#park-normal {display: block;}
+#park-click {display: none;}

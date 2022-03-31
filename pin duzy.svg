@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.255" height="90.137" viewBox="0 0 68.255 90.137">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1586" data-name="Rectangle 1586" width="68.255" height="90.137" fill="#1a1718"/>
+    </clipPath>
+  </defs>
+  <g id="pin_duzy" data-name="pin duzy" transform="translate(-43 7.998)">
+    <g id="Group_2223" data-name="Group 2223" transform="translate(43 -7.998)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="19.617" cy="19.617" r="19.617" transform="translate(16.258 16.839)" fill="#fff"/>
+      <path id="Path_3299" data-name="Path 3299" d="M26.917,0A26.918,26.918,0,0,0,0,26.919a48.314,48.314,0,0,0,3.5,17.4c5.325,12.013,17.955,31.708,23.42,31.708,5.312,0,18.119-19.669,23.439-31.679,2.4-5.417,3.434-13.346,3.479-17.43A26.917,26.917,0,0,0,26.917,0m0,12.032a14.74,14.74,0,1,1-10.422,4.318,14.74,14.74,0,0,1,10.422-4.318" transform="translate(8.112 7.208)" fill="none" stroke="#fff" stroke-width="12"/>
+      <path id="Path_3303" data-name="Path 3303" d="M26.917,0A26.918,26.918,0,0,0,0,26.919a48.314,48.314,0,0,0,3.5,17.4c5.325,12.013,17.955,31.708,23.42,31.708,5.312,0,18.119-19.669,23.439-31.679,2.4-5.417,3.434-13.346,3.479-17.43A26.917,26.917,0,0,0,26.917,0m0,12.032a14.74,14.74,0,1,1-10.422,4.318,14.74,14.74,0,0,1,10.422-4.318" transform="translate(8.112 7.208)" fill="#cca665"/>
+    </g>
+  </g>
+</svg>

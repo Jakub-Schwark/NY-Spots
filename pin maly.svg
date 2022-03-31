@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.573" height="38.702" viewBox="0 0 28.573 38.702">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1586" data-name="Rectangle 1586" width="28.573" height="38.702" transform="translate(-2 -2)" fill="#cca665" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="pin_maly" data-name="pin maly" transform="translate(2 1.998)">
+    <g id="Group_2223" data-name="Group 2223" transform="translate(0 0.002)" clip-path="url(#clip-path)">
+      <path id="Path_3299" data-name="Path 3299" d="M12.286,0m0,5.492A6.728,6.728,0,1,1,7.529,7.465a6.728,6.728,0,0,1,4.757-1.971" transform="translate(0 -0.002)" fill="none" stroke="#1a1718" stroke-width="2"/>
+      <path id="Path_3300" data-name="Path 3300" d="M12.286,0A12.287,12.287,0,0,0,0,12.288a22.053,22.053,0,0,0,1.6,7.942c2.43,5.483,8.2,14.474,10.69,14.474,2.425,0,8.271-8.978,10.7-14.46a23.516,23.516,0,0,0,1.588-7.956A12.287,12.287,0,0,0,12.286,0m0,5.492" transform="translate(0 -0.002)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
